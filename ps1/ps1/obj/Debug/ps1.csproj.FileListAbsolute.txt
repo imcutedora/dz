@@ -1,0 +1,7 @@
+C:\Users\Богдан\source\repos\ps1\ps1\bin\Debug\ps1.exe.config
+C:\Users\Богдан\source\repos\ps1\ps1\bin\Debug\ps1.exe
+C:\Users\Богдан\source\repos\ps1\ps1\bin\Debug\ps1.pdb
+C:\Users\Богдан\source\repos\ps1\ps1\obj\Debug\ps1.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\ps1\ps1\obj\Debug\ps1.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\ps1\ps1\obj\Debug\ps1.exe
+C:\Users\Богдан\source\repos\ps1\ps1\obj\Debug\ps1.pdb
