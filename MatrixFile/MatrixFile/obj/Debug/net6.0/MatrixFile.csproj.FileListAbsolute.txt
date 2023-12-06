@@ -1,0 +1,15 @@
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.csproj.AssemblyReference.cache
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.AssemblyInfoInputs.cache
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.AssemblyInfo.cs
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\bin\Debug\net6.0\MatrixFile.exe
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\bin\Debug\net6.0\MatrixFile.deps.json
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\bin\Debug\net6.0\MatrixFile.runtimeconfig.json
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\bin\Debug\net6.0\MatrixFile.dll
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\bin\Debug\net6.0\MatrixFile.pdb
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.dll
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\refint\MatrixFile.dll
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.pdb
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\MatrixFile.genruntimeconfig.cache
+C:\Users\Богдан\source\repos\MatrixFile\MatrixFile\obj\Debug\net6.0\ref\MatrixFile.dll
